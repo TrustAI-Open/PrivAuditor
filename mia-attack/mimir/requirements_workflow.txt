@@ -1,0 +1,16 @@
+numpy
+transformers
+datasets
+matplotlib
+tqdm
+scikit-learn
+openai
+packaging
+ninja
+pytorch-lightning
+zstandard
+simple-parsing
+nltk
+scipy>=1.11.2
+pytest
+ai2-olmo
