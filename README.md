@@ -5,7 +5,7 @@
 <h3 align="center">
     <p>PrivAuditor: A Privacy Assessment on a Family of Parameter-Efficient Fine-Tuning for Large Language Models </p>
 </h3>
-LLM-LeakageAuditor is an easy-to-use framework that integrates various adapters into LLMs across different tasks and assesses the privacy leakage risk.
+PrivAuditor is an easy-to-use framework that integrates various adapters into LLMs across different tasks and assesses the privacy leakage risk.
 
 The framework includes state-of-the-art open-access LLMs: LLaMa, OPT, BLOOM, and GPT-J, as well as widely used adapters and in-context learning are included.
 
